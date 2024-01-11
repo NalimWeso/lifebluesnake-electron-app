@@ -33,8 +33,4 @@ Lore ipsum tralalalala
 
 This project is licensed under the terms of the MIT license.
 
-## License
-
-This project is licensed under the terms of the MIT license.
-
 The large files in this repository are managed using Git LFS (Large File Storage). Git LFS is licensed under its own terms, and the license file can be found at [LICENSE.md](https://media.githubusercontent.com/media/NalimWeso/lifebluesnake-electron-app/main/LICENSE.md).
