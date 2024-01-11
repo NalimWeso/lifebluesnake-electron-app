@@ -35,7 +35,7 @@ In summary, **LifeBlueSnake** serves as a user-friendly solution for organizatio
 ## Usage
 
 1. **Login Credentials:**
-Upon launching LifeBlueSnake, use login details:
+Upon launching **LifeBlueSnake**, use login details:
     - **Username:** `Nalim`
     - **Password:** `1234`
 
