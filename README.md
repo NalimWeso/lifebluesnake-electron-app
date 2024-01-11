@@ -50,7 +50,7 @@ At the top of the application window, users will find a search field. This funct
 
 ## Prototype Disclaimer
 
-Please note that LifeBlueSnake is a prototype created as an additional school assignment and is not intended for use by other companies. While its functionality closely resembles real applications designed for this purpose, it serves primarily as a demonstration of skills and knowledge acquired during the development process.
+Please note that **LifeBlueSnake** is a prototype created as an additional school assignment and is not intended for use by other companies. While its functionality closely resembles real applications designed for this purpose, it serves primarily as a demonstration of skills and knowledge acquired during the development process.
 
 ## License
 
