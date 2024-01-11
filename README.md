@@ -15,6 +15,10 @@ LifeBlueSnake is a cross-platform desktop application designed for efficient tas
 - **Status Tracking:** Monitor the status of tasks, whether they are pending, in-progress, or completed.
 - **User Authentication:** Securely manage user access with authentication features.
 
+<kbd>
+  <img src="resources/app/logos/screenshot.png" alt="LifeBlueSnake">
+</kbd>
+
 ## Getting Started
 
 1. Clone the repository to your local machine.
