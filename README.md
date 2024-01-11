@@ -16,10 +16,11 @@ In summary, **LifeBlueSnake** serves as a user-friendly solution for organizatio
 
 ## Features
 
-- **Task Creation:** Easily create tasks with details such as title, description, and due date.
-- **Employee Assignment:** Assign tasks to specific employees within your organization.
-- **Status Tracking:** Monitor the status of tasks, whether they are pending, in-progress, or completed.
-- **User Authentication:** Securely manage user access with authentication features.
+- **Efficient Task Assignment:** Streamline task assignment within your organization effortlessly.
+- **Employee Management:** Access and manage employee information in the centralized database.
+- **Real-time Updates:** Changes made, including task assignments or removals, are instantly reflected and persist.
+- **User-friendly Interface:** Navigate through the application seamlessly with an intuitive and user-friendly design.
+- **Search Functionality:** Easily search for employee data and tasks using the dedicated search field.
 
 <kbd>
   <img src="resources/app/logos/screenshot.png" alt="LifeBlueSnake">
@@ -33,7 +34,23 @@ In summary, **LifeBlueSnake** serves as a user-friendly solution for organizatio
 
 ## Usage
 
-Lore ipsum tralalalala
+1. **Login Credentials:**
+Upon launching LifeBlueSnake, prominently emphasize the use of the login credentials:
+    - **Username:** `Nalim`
+    - **Password:** `1234`
+
+3. **Database Access:**
+Users have direct access to the employee database, empowering them to assign specific tasks or remove existing ones.
+
+4. **Persistent Data:**
+The app ensures persistent data storage, guaranteeing that any changes made by users are retained even after logging out or closing the application.
+
+5. **Search Functionality:**
+At the top of the application window, users will find a search field. This functionality enables users to find information about employees and their tasks by entering specific keywords, such as a name, city, or task. The results are dynamically displayed, making it easy for users to locate relevant information quickly.
+
+## Prototype Disclaimer
+
+Please note that LifeBlueSnake is a prototype created as an additional school assignment and is not intended for use by other companies. While its functionality closely resembles real applications designed for this purpose, it serves primarily as a demonstration of skills and knowledge acquired during the development process.
 
 ## License
 
