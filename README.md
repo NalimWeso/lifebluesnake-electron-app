@@ -12,15 +12,15 @@ The primary purpose of **LifeBlueSnake** is to facilitate efficient task assignm
 
 To enhance user convenience, **LifeBlueSnake** is packaged as an executable, eliminating the need for a traditional installation process. This approach ensures that users can easily integrate the application into their workflow without any unnecessary complications.
 
-In summary, **LifeBlueSnake** serves as a user-friendly solution for organizations seeking a straightforward and effective tool for task assignment. Its cross-platform nature and executable packaging make it a versatile choice for teams operating on different operating systems.
+In summary, **LifeBlueSnake** serves as a user-friendly solution for organizations seeking a straightforward and effective tool for task assignment. Its cross-platform nature and executable packaging make it a versatile choice for teams working on different operating systems.
 
 ## Features
 
-- **Efficient Task Assignment:** Streamline task assignment within your organization effortlessly.
 - **Employee Management:** Access and manage employee information in the centralized database.
-- **Real-time Updates:** Changes made, including task assignments or removals, are instantly reflected and persist.
-- **User-friendly Interface:** Navigate through the application seamlessly with an intuitive and user-friendly design.
+- **Efficient Task Assignment:** Streamline task assignment within your organization effortlessly.
+- **Real-Time Updates:** Changes made, including task assignments or their removals, are instantly persist.
 - **Search Functionality:** Easily search for employee data and tasks using the dedicated search field.
+- **User-Friendly Interface:** Navigate through the application seamlessly with an intuitive and user-friendly design.
 
 <kbd>
   <img src="resources/app/logos/screenshot.png" alt="LifeBlueSnake">
