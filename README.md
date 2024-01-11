@@ -24,3 +24,13 @@ LifeBlueSnake is a cross-platform desktop application designed for efficient tas
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Double-click on LifeBlueSnake.exe to launch the app.
+
+## Usage
+
+Lore ipsum tralalalala
+
+## License
+
+This project is licensed under the terms of the MIT license.
+
+The large files in this repository are managed using Git LFS (Large File Storage). Git LFS is licensed under its own terms, and the license file can be found at [LICENSE](LICENSE).
