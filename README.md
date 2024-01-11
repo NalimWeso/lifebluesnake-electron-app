@@ -54,6 +54,6 @@ Please note that **LifeBlueSnake** is a prototype created as an additional schoo
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT License.
 
 The large files in this repository are managed using Git LFS (Large File Storage). Git LFS is licensed under its own terms, and the license file can be found at [LICENSE.md](https://media.githubusercontent.com/media/NalimWeso/lifebluesnake-electron-app/main/LICENSE.md).
