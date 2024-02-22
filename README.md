@@ -6,13 +6,13 @@
 
 ## Introduction
 
-**LifeBlueSnake** is a cross-platform desktop application developed using JavaScript and Electron framework. It was created as an additional school project, with a focus on developing an application centered around a theme of my choice. This marks my first significant project, showcasing my skills in software development.
+**LifeBlueSnake** is a prototype desktop application developed using JavaScript and the Electron framework. It was created as an additional school project, focusing on developing an application centered around a theme of my choice. This marks my first significant project, showcasing my skills in software development.
 
-The primary purpose of **LifeBlueSnake** is to facilitate efficient task assignment within organizational settings. The application is designed to streamline the process of distributing and managing tasks among team members. One of its notable features is its cross-platform compatibility, allowing users to access and utilize the application seamlessly on various operating systems.
+The primary purpose of **LifeBlueSnake** is to facilitate efficient task assignment within organizational settings. The application is designed to streamline the process of distributing and managing tasks among team members.
 
 To enhance user convenience, **LifeBlueSnake** is packaged as an executable, eliminating the need for a traditional installation process. This approach ensures that users can easily integrate the application into their workflow without any unnecessary complications.
 
-In summary, **LifeBlueSnake** serves as a user-friendly solution for organizations seeking a straightforward and effective tool for task assignment. Its cross-platform nature and executable packaging make it a versatile choice for teams working on different operating systems.
+In summary, **LifeBlueSnake** simplifies task management for organizations, fostering productivity and collaboration with its intuitive design and seamless functionality.
 
 ## Features
 
