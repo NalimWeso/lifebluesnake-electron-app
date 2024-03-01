@@ -1,4 +1,4 @@
-# LifeBlueSnake - Electron App1
+# LifeBlueSnake - Electron App
 
 <kbd>
   <img src="resources/app/logos/logo.png" alt="LifeBlueSnake">
@@ -52,8 +52,8 @@ At the top of the application window, users will find a search field. This funct
 
 Please note that **LifeBlueSnake** is a prototype created as an additional school assignment and is not intended for use by other companies. While its functionality closely resembles real applications designed for this purpose, it serves primarily as a demonstration of skills and knowledge acquired during the development process.
 
-## License
+## Licenses
 
 This project is licensed under the terms of the MIT License.
 
-The large files in this repository are managed using Git LFS (Large File Storage). Git LFS is licensed under its own terms.
+The file **LifeBlueSnake.exe** in this repository is managed using Git LFS (Large File Storage). Git LFS is licensed under its own terms.
