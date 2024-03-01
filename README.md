@@ -56,4 +56,4 @@ Please note that **LifeBlueSnake** is a prototype created as an additional schoo
 
 This project is licensed under the terms of the MIT License.
 
-The file **LifeBlueSnake.exe** in this repository is managed using Git LFS (Large File Storage). Git LFS is licensed under its own terms.
+The file **LifeBlueSnake.exe** in this repository is managed using Git LFS (Large File Storage), which is licensed under its own terms.
