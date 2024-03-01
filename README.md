@@ -1,4 +1,4 @@
-# LifeBlueSnake - Electron App
+# LifeBlueSnake - Electron App1
 
 <kbd>
   <img src="resources/app/logos/logo.png" alt="LifeBlueSnake">
