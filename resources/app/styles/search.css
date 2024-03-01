@@ -1,0 +1,167 @@
+body {
+    padding-top: 105px;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+header {
+    color: rgb(120, 185, 206);
+    text-align: center;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+.div-search-main {
+    background-color: black;
+    border-bottom: 1px solid white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 12%;
+    z-index: 100;
+}
+
+.div-search-1,
+.div-search-2,
+.div-search-3 {
+    margin: 0 50px;
+}
+
+@media only screen and (max-width: 800px) {
+
+    .div-search-1,
+    .div-search-3 {
+        display: none;
+    }
+
+    .div-search-2 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-height: 800px) {
+    .div-search-main {
+        height: 15%;
+    }
+}
+
+.input-search {
+    font-size: 40px;
+    width: 100%;
+    height: 40px;
+}
+
+.log-out-button,
+.add-button,
+.delete-button {
+    background-color: rgb(37, 150, 190);
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 18px 25px;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.add-button {
+    padding: 18px 35px;
+    margin-right: 100px;
+}
+
+.delete-button {
+    padding: 4px;
+    margin: 4px;
+}
+
+.log-out-button:hover,
+.add-button:hover,
+.delete-button:hover {
+    background-color: rgb(70, 155, 186);
+}
+
+.log-out-button:active,
+.add-button:active,
+.delete-button:active {
+    background-color: rgb(182, 182, 182);
+}
+
+.absolute-task {
+    position: absolute;
+    width: 140px;
+    margin-top: 10px;
+    margin-left: -21px;
+}
+
+.input-task {
+    width: 100%;
+}
+
+.employee-container {
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    position: relative;
+}
+
+.employee-image {
+    width: 200px;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: -4px;
+}
+
+.employee-info {
+    line-height: 40px;
+    margin-bottom: -10px;
+    width: 450px;
+}
+
+.employee-name,
+.employee-todo {
+    color: rgb(120, 185, 206);
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.info {
+    color: rgb(120, 185, 206);
+    font-weight: bold;
+}
+
+.employee-details {
+    margin-right: 20px;
+    display: block;
+}
+
+.employee-tasks {
+    height: 100%;
+    display: inline-block;
+    flex: 1;
+}
+
+.employee-tasks-header {
+    display: flex;
+}
+
+.employee-todo {
+    width: 100%;
+}
+
+.employee-specific-tasks {
+    margin-left: -35px;
+    margin-bottom: -15px;
+    line-height: 30px;
+}
