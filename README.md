@@ -40,7 +40,7 @@ Upon launching **LifeBlueSnake**, use login details:
     - **Password:** `1234`
 
 3. **Database Access:**
-Users have direct access to the employee database, empowering them to assign specific tasks or remove existing ones.
+Users have direct access to the employee database, enabling them to assign specific tasks or remove existing ones.
 
 4. **Persistent Data:**
 The app ensures persistent data storage, guaranteeing that any changes made by users are retained even after logging out or closing the application.
