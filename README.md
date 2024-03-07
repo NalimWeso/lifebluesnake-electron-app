@@ -39,13 +39,13 @@ Upon launching **LifeBlueSnake**, use login details:
     - **Username:** `Nalim`
     - **Password:** `1234`
 
-3. **Database Access:**
-Users have direct access to the employee database, enabling them to assign specific tasks or remove existing ones.
+2. **Database Access:**
+Users have direct access to the employee database, empowering them to assign specific tasks or remove existing ones.
 
-4. **Persistent Data:**
+3. **Persistent Data:**
 The app ensures persistent data storage, guaranteeing that any changes made by users are retained even after logging out or closing the application.
 
-5. **Search Functionality:**
+4. **Search Functionality:**
 At the top of the application window, users will find a search field. This functionality enables users to find information about employees and their tasks by entering specific keywords, such as a name, city, or task. The results are dynamically displayed, making it easy for users to locate relevant information quickly.
 
 ## Prototype Disclaimer
